@@ -1,0 +1,24 @@
+{
+  "name": "swift_cocoa_objc_cn",
+  "version": "1.0.0",
+  "description": "![封面](./cover.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "doc-dev": "vuepress dev .",
+    "doc-build": "vuepress build ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/venj/Swift_Cocoa_ObjC_CN.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/venj/Swift_Cocoa_ObjC_CN/issues"
+  },
+  "homepage": "https://github.com/venj/Swift_Cocoa_ObjC_CN#readme",
+  "devDependencies": {
+    "vuepress": "^1.8.2"
+  }
+}
