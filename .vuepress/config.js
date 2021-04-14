@@ -2,6 +2,7 @@ module.exports = {
   title: 'Using Swift with Cocoa and Objective-C (Swift 2.2 Pre-release) 中文版',
   description: 'Swift Cocoa Object-c 中文版',
   dest: 'docs',
+  base: '/Swift_Cocoa_ObjC_CN/',
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' }
