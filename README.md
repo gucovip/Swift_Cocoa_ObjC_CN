@@ -24,7 +24,7 @@ Using Swift with Cocoa and Objective-C (Swift 2.2 Pre-release) 中文版
 
 ## 历史版本
 
-- [Swift 2.1版](https://github.com/venj/Swift_Cocoa_ObjC_CN/blob/1.0/0_目录.markdown)
+- [Swift 2.1版](https://github.com/venj/Swift_Cocoa_ObjC_CN/blob/1.0/0_目录.md)
 
 ### 支持原作者
 
